@@ -3,7 +3,7 @@ public class day1{
   public static void main(String [] args){
 
     System.out.println("Hello Word");
-
+    
     // Brontosaurus dan Gigantosaurus
 
     /* Brontosaurus dan Gigantosaurus sedang menikmati matahari terbit di atas gunung Jaya Wijaya
@@ -12,6 +12,12 @@ public class day1{
 
     Tamat
            
+    */
+
+    /*
+    *Judul Buku
+    * Brontosaurus dan Gigantosaurus
+    * Kapal Karam
     */
   }
 
