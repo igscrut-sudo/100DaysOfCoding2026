@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class Day77 {
+    public static void main(String[] args) {
+        Scanner masuk = new Scanner(System.in);
+
+        System.out.println("masukkan nama Anda ");
+        String nama = masuk.nextLine().trim();
+
+        System.out.println("" + nama.length());
+        System.out.println("" + nama.toUpperCase());
+        System.out.println("" + nama.toLowerCase());
+        System.out.println("" + nama.substring(0, 1));
+        System.out.println("" + nama.replace(" ", "_"));
+    }
+}
